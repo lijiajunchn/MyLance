@@ -1,0 +1,8 @@
+<font style='font: bold; font-family: Microsoft YaHei UI; font-size: 11pt;'>
+命名规范：</font><br>
+<font style='font: bold; font-family: Microsoft YaHei UI; font-size: 9pt;'>
+1、所属模块是“/”，则用【其他】代替。</font><br>
+<font style='font: bold; font-family: Microsoft YaHei UI; font-size: 9pt;'>
+2、存在所属模块，不存在子模块则写入【所属模块】。</font><br>
+<font style='font: bold; font-family: Microsoft YaHei UI; font-size: 9pt;'>
+3、存在所属模块和子模块，使用【所属模块-子模块】。</font>
